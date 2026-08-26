@@ -1,6 +1,7 @@
 ## Worlds smallest calc
 
 Most likely the smallest possible calc achievable with plain Python code. 
+Probably shouldn't be used in production.
 
 Quick start for those that don't know python.
 ```
