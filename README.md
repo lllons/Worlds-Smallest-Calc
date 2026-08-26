@@ -7,7 +7,7 @@ Quick start for those that don't know python.
 
 You can just copy and paste this into terminal if you have python installed.
 ```
-python -c "while 1: print(eval(input('> ')))"
+python -c "while 1:print(eval(input()))"
 ```
 Or if you want the repo downloaded
 
