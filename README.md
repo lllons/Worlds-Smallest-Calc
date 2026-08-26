@@ -15,4 +15,4 @@ Then...
 python run Calc.py
 ```
 ---
-No licence (just use and reuse and sell whatever you want!!)
+MIT Licence
