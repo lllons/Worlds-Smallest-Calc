@@ -24,8 +24,10 @@ Luego escribe cualquier expresión y presiona Enter para evaluarla.
 
 - [English](README.md)
 - [中文 (Chinese)](README.zh.md)
-- [Français (French)](README.fr.md)
 - [Español (Spanish)](README.es.md)
+- [Русский (Russian)](README.ru.md)
+- [日本語 (Japanese)](README.ja.md)
+- [한국어 (Korean)](README.ko.md)
 
 ---
 
