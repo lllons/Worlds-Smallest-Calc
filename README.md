@@ -1,6 +1,6 @@
 # Worlds-Smallest-Calc
 
-A tiny interactive Python calculator â a single line of Python code.
+A tiny interactive Python calculator — a single line of Python code.
 
 ## Quick start
 
@@ -19,6 +19,12 @@ python Calc.py
 ```
 
 Then type any expression and press Enter to evaluate it.
+
+## Available languages
+
+- [English](README.md)
+- [中文 (Chinese)](README.zh.md)
+- [Français (French)](README.fr.md)
 
 ---
 
