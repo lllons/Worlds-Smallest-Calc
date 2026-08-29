@@ -25,6 +25,7 @@ python Calc.py
 - [English](README.md)
 - [中文 (Chinese)](README.zh.md)
 - [Français (French)](README.fr.md)
+- [Español (Spanish)](README.es.md)
 
 ---
 

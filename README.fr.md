@@ -25,6 +25,7 @@ Tapez ensuite n'importe quelle expression et appuyez sur Entrée pour l'évaluer
 - [English](README.md)
 - [中文 (Chinese)](README.zh.md)
 - [Français (French)](README.fr.md)
+- [Español (Spanish)](README.es.md)
 
 ---
 

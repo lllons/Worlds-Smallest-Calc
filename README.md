@@ -27,6 +27,7 @@ Then type any expression and press Enter to evaluate it.
 - [English](README.md)
 - [中文 (Chinese)](README.zh.md)
 - [Français (French)](README.fr.md)
+- [Español (Spanish)](README.es.md)
 
 ---
 
