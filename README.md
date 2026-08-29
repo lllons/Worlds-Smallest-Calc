@@ -2,6 +2,8 @@
 
 A tiny interactive Python calculator — a single line of Python code.
 
+It really is just one line.
+
 ## Quick start
 
 You can paste this into a terminal if you have Python installed:
@@ -29,5 +31,3 @@ Then type any expression and press Enter to evaluate it.
 ---
 
 MIT License
-
-(TMT branch proof of concept change)
