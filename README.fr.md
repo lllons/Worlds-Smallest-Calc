@@ -2,17 +2,17 @@
 
 Un minuscule calculateur interactif en Python — une seule ligne de code Python.
 
-Il s'agit vraiment d'une seule ligne.
+C'est vraiment une seule ligne.
 
 ## Démarrage rapide
 
-Vous pouvez coller ceci dans un terminal si Python est installé :
+Vous pouvez coller ceci dans un terminal si Python est installé :
 
 ```
 python -c "while 1:print(eval(input()))"
 ```
 
-Ou téléchargez le dépôt et exécutez le fichier :
+Vous pouvez aussi télécharger le dépôt et exécuter le fichier :
 
 ```
 gh repo clone lllons/Worlds-Smallest-Calc
@@ -20,18 +20,22 @@ cd Worlds-Smallest-Calc
 python Calc.py
 ```
 
-Saisissez ensuite n'importe quelle expression et appuyez sur Entrée pour l'évaluer.
+Tapez ensuite n'importe quelle expression et appuyez sur Entrée pour l'évaluer.
 
-## Available languages
+## Langues disponibles
 
-- [English](README.md)
+- [العربية (Arabic)](README.ar.md)
 - [中文 (Chinese)](README.zh.md)
-- [Español (Spanish)](README.es.md)
+- [English](README.md)
 - [Français (French)](README.fr.md)
-- [Русский (Russian)](README.ru.md)
+- [Deutsch (German)](README.de.md)
+- [Italiano (Italian)](README.it.md)
 - [日本語 (Japanese)](README.ja.md)
 - [한국어 (Korean)](README.ko.md)
+- [Português (Brazilian Portuguese)](README.pt-BR.md)
+- [Русский (Russian)](README.ru.md)
+- [Español (Spanish)](README.es.md)
 
 ---
 
-MIT License
+Licence MIT

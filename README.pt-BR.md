@@ -1,12 +1,12 @@
 # Worlds-Smallest-Calc
 
-Uma calculadora interativa minúscula em Python — uma única linha de código Python.
+Uma calculadora interativa bem pequena em Python — uma única linha de código Python.
 
-É sério, é apenas uma linha.
+É sério, é só uma linha mesmo.
 
 ## Início rápido
 
-Você pode colar isto em um terminal se tiver o Python instalado:
+Você pode colar isto num terminal, se tiver o Python instalado:
 
 ```
 python -c "while 1:print(eval(input()))"
@@ -20,18 +20,22 @@ cd Worlds-Smallest-Calc
 python Calc.py
 ```
 
-Em seguida, digite qualquer expressão e pressione Enter para avaliá-la.
+Depois é só digitar qualquer expressão e apertar Enter para avaliá-la.
 
 ## Idiomas disponíveis
 
-- [English](README.md)
-- [Português (Brazilian Portuguese)](README.pt-BR.md)
+- [العربية (Arabic)](README.ar.md)
 - [中文 (Chinese)](README.zh.md)
-- [Español (Spanish)](README.es.md)
-- [Русский (Russian)](README.ru.md)
+- [English](README.md)
+- [Français (French)](README.fr.md)
+- [Deutsch (German)](README.de.md)
+- [Italiano (Italian)](README.it.md)
 - [日本語 (Japanese)](README.ja.md)
 - [한국어 (Korean)](README.ko.md)
+- [Português (Brazilian Portuguese)](README.pt-BR.md)
+- [Русский (Russian)](README.ru.md)
+- [Español (Spanish)](README.es.md)
 
 ---
 
-Licença MIT
+MIT License
