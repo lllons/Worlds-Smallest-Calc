@@ -25,11 +25,11 @@ python Calc.py
 ## 利用可能な言語
 
 - [English](README.md)
-- [中文 (Chinese)](README.zh.md)
-- [Español (Spanish)](README.es.md)
-- [Русский (Russian)](README.ru.md)
-- [日本語 (Japanese)](README.ja.md)
-- [한국어 (Korean)](README.ko.md)
+- [中文 (Chinese)](otherlang/README.zh.md)
+- [Español (Spanish)](otherlang/README.es.md)
+- [Русский (Russian)](otherlang/README.ru.md)
+- [日本語 (Japanese)](otherlang/README.ja.md)
+- [한국어 (Korean)](otherlang/README.ko.md)
 
 ---
 

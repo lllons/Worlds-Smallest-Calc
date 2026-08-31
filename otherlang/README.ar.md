@@ -24,17 +24,17 @@ python Calc.py
 
 ## اللغات المتاحة
 
-- [العربية (Arabic)](README.ar.md)
-- [中文 (Chinese)](README.zh.md)
+- [العربية (Arabic)](otherlang/README.ar.md)
+- [中文 (Chinese)](otherlang/README.zh.md)
 - [English](README.md)
-- [Français (French)](README.fr.md)
-- [Deutsch (German)](README.de.md)
-- [Italiano (Italian)](README.it.md)
-- [日本語 (Japanese)](README.ja.md)
-- [한국어 (Korean)](README.ko.md)
-- [Português (Brazilian Portuguese)](README.pt-BR.md)
-- [Русский (Russian)](README.ru.md)
-- [Español (Spanish)](README.es.md)
+- [Français (French)](otherlang/README.fr.md)
+- [Deutsch (German)](otherlang/README.de.md)
+- [Italiano (Italian)](otherlang/README.it.md)
+- [日本語 (Japanese)](otherlang/README.ja.md)
+- [한국어 (Korean)](otherlang/README.ko.md)
+- [Português (Brazilian Portuguese)](otherlang/README.pt-BR.md)
+- [Русский (Russian)](otherlang/README.ru.md)
+- [Español (Spanish)](otherlang/README.es.md)
 
 ---
 
